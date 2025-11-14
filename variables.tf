@@ -1,6 +1,6 @@
-variable "region" {
+variable "name" {
     type = string
 }
-variable "name" {
+variable "acl" {
     type = string
 }
